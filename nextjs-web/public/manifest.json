@@ -1,0 +1,10 @@
+{
+  "name": "TaskFlow - Smart Task Management",
+  "short_name": "TaskFlow",
+  "description": "Organize your tasks efficiently with TaskFlow",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "orientation": "portrait-primary"
+}
